@@ -5,8 +5,9 @@ Sou desenvolvedor de sites e sistemas.
 Trabalho com as principais linguagens do mercado como:
 
 -PHP
+-Node.js
 -JavaScript
--C#
+-html e css
 
 Trabalho como programador freelancer remotamente,
 Estou sempre disposto a aprender novas tecnicas e aperfeiçoar minhas abilidades profissionais,
