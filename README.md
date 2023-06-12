@@ -14,5 +14,7 @@ Sei como trabalhar em equipe e tenho capacidade de liderar um projeto para que t
 Sempre realiso minhas tarefas com muito profissionalismo e sou extremamente pontual com todas as minhas obrigações,
 Tenho um estinto empreendedor que faz ser quem sou.
 
-- Entrar em contato: igormaia055@gmail.com
--
+  Entrar em contato: 
+- igormaia055@gmail.com
+- (41) 98800-5611
+- Linkedin: https://www.linkedin.com/in/igor-maia-8761a622b/
