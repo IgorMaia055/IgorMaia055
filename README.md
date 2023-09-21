@@ -17,4 +17,3 @@ Tenho um estinto empreendedor que faz ser quem sou.
   Entrar em contato: 
 - igormaia055@gmail.com
 - (41) 98800-5611
-- Linkedin: https://www.linkedin.com/in/igor-maia-8761a622b/
