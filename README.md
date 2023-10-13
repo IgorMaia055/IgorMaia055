@@ -6,6 +6,9 @@ Trabalho com as principais linguagens do mercado como:
 
 -PHP
 -JavaScript
+- jQuery
+- Ajax
+- Bootstrap
 -html e css
 
 Estou sempre disposto a aprender novas tecnicas e aperfeiçoar minhas abilidades profissionais,
