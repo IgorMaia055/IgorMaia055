@@ -4,12 +4,12 @@ Sou desenvolvedor de sites e sistemas.
 
 Trabalho com as principais linguagens do mercado como:
 
--PHP
--JavaScript
+- PHP
+- JavaScript
 - jQuery
 - Ajax
 - Bootstrap
--html e css
+- html e css
 
 Estou sempre disposto a aprender novas tecnicas e aperfeiçoar minhas abilidades profissionais,
 Sei como trabalhar em equipe e tenho capacidade de liderar um projeto para que traga sucesso!
