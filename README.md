@@ -9,7 +9,7 @@ Trabalho com as principais linguagens do mercado como:
 - jQuery
 - Ajax
 - Bootstrap
-- html e css
+- HTML e CSS
 
 Estou sempre disposto a aprender novas tecnicas e aperfeiçoar minhas abilidades profissionais,
 Sei como trabalhar em equipe e tenho capacidade de liderar um projeto para que traga sucesso!
