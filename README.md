@@ -11,11 +11,8 @@ Trabalho com as principais linguagens do mercado como:
 - Bootstrap
 - HTML e CSS
 
-Estou sempre disposto a aprender novas tecnicas e aperfeiçoar minhas abilidades profissionais,
-Sei como trabalhar em equipe e tenho capacidade de liderar um projeto para que traga sucesso!
+Estou sempre disposto a aprender novas técnicas e a aprimorar minhas habilidades profissionais. Sei como trabalhar em equipe e tenho a capacidade de liderar projetos para garantir o sucesso. Sempre realizo minhas tarefas com muito profissionalismo e sou extremamente pontual em relação a todas as minhas obrigações.
 
-Sempre realiso minhas tarefas com muito profissionalismo e sou extremamente pontual com todas as minhas obrigações,
-Tenho um estinto empreendedor que faz ser quem sou.
 
   Entrar em contato: 
 - igormaia055@gmail.com
